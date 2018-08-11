@@ -1,0 +1,40 @@
+1.)	a.) done
+
+	b.) done
+
+	c.) done
+
+	d.) Der rechte channel sollte auf dem linken ausgegeben werden
+	    und umgekhert.
+
+	e.) Da mittels des linein Eingangs kann dieses Verhalten
+	    beobachtet werden.
+
+	f.) Es gehen Daten verloren, es ist eine verfälschung des
+	    Ausgangssignals zu beobachten.  Parameter: Lautstärke
+
+	g.) Maximale Abtastfrequenz: 12MHz / (24Bit+1)*2 = 240KHz
+	
+2.) a.) done
+
+    b.) done
+
+    c.) oLrc: es werden die Datenbit für den linken
+	Channel und danach sofort die Datenbit für den rechten
+	Channel versendet. Dies entspricht im Datenblatt dem DSP/PCM
+	mode, wobei beim DSP/PCM mode der LRCLK zu dem LRClk zur
+	Simulation abweicht.
+
+    d.) Screenshot: SCD5UE03_2d.PNG
+
+3.) a.) done
+
+    b.) Der linke Kanal weist keine Verzögerung auf, der rechte Kanal
+    hat eine Verzögerung von 153*BClkCycles = 12,75�s.
+
+    c.) Die Kanalquelle wird nach links verschoben, da die Distanz des
+    Signals zum rechten Ohr um 4,373mm h�her ist als zum linken Ohr.
+
+    d.) done
+    
+4.) a.) Tag erstellt

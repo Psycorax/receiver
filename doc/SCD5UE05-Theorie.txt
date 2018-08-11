@@ -1,0 +1,73 @@
+* Aufgabe 1
+** a
+   done
+   
+** b
+   siehe Screenshots:
+      SCD5UE05_1b_RegDelay256.PNG
+      SCD5UE05_1b_RegDelay5.PNG
+
+   ##### delay = 256 #####
+   f_sample = 44117 Hz
+   t_sample = 1 / 44117 Hz = 22,667 us
+   t_delay = 5,802316128 ms
+   sample_delays = t_delay / t_sample = 255,981 ~ 256
+   
+   ##### delay = 5 #####
+   t_delay = 113,346912 us
+   sample_delays = t_delay / t_sample = 5,0001 ~ 5
+
+** c
+   done
+   
+** d
+   siehe Screenshots:
+      SCD5UE05_1d_SEMA5_Resources.PNG
+	  SCD5UE05_1d_Fitter_Report.PNG
+
+* Aufgabe 2
+** a
+   (DE1-SoC_Schematic_RevE, S.11)
+   85K programmable logic elements
+   4.450 Kbits embedded memory
+   Fitter Summary Quartus:
+   4.065.280 block memory bits
+   397 RAM Blocks
+   32070 ALMs
+
+** b
+   (QUARTUS PRIME STANDARD EDITION HANDBOOK VOLUME 1: DESIGN AND SYNTHESIS,S.835)
+   Ja
+   1.) case Statements mit konstanten Werten für jede Möglichkeit
+   2.) readmemb: $readmemb("dual_port_rom_init.txt", rom);
+
+** c
+   4065280/16 = 254080 Verzögerungsstufen
+
+** d
+   done
+
+** e
+   (QUARTUS PRIME STANDARD EDITION HANDBOOK VOLUME 1: DESIGN AND SYNTHESIS,S.832)
+   Ram wird erst beim ersten mal lesen initialisiert wenn eine initialisierung vorgenommen wird.
+   1.) mittels einer Funtion dieser initial-Block wird von Quartus automatisch in ein .mif file geschrieben und zur initialisierung verwendet
+   2.) mittels readmemb, ROM und RAM werden gleich initialisiert
+   Ram-blöcke starten immer mit dem initialwert 0.
+
+** f
+   Weil LFSR weniger bit-breiten benötigt als herkömmliche Zähler. (arbeiten ohne übertrag, Rückkopplung XOR)
+   Je größer das shift-register desto mehr bit benötigt der Zähler, das LFSR benötigt jedoch nicht zwangsweise mehr Bit.
+
+** g
+   done
+
+** h
+   done
+
+** i
+   done
+
+* Aufgabe 3
+
+** a
+   done

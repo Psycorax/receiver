@@ -1,0 +1,40 @@
+####### b.) pole zero plot of filt 1 #######
+All poles are inside the circle!
+
+####### c.) second order system 1 #######
+SOS1: |a_1| < 2 und |a_2| < 1 trifft zu!
+
+H1tf =
+ 
+     1 - 1.278 z^-1 + z^-2
+  ----------------------------
+  1 - 1.795 z^-1 + 0.8194 z^-2
+ 
+Sample time: unspecified
+Discrete-time transfer function.
+
+
+####### c.) second order system 2 #######
+SOS2: |a_1| < 2 und |a_2| < 1 trifft zu!
+
+H2tf =
+ 
+     1 - 1.836 z^-1 + z^-2
+  ---------------------------
+  1 - 1.855 z^-1 + 0.929 z^-2
+ 
+Sample time: unspecified
+Discrete-time transfer function.
+
+
+####### c.) second order system 3 #######
+SOS3: |a_1| < 2 und |a_2| < 1 trifft zu!
+
+H3tf =
+ 
+     1 - 1.879 z^-1 + z^-2
+  ----------------------------
+  1 - 1.888 z^-1 + 0.9854 z^-2
+ 
+Sample time: unspecified
+Discrete-time transfer function.

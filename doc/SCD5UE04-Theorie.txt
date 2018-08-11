@@ -1,0 +1,103 @@
+* Aufgabe 1
+** a
+   aAudioData ist ein subtype von u_sfixed
+   fract_real ist ein subtype von real mit der Range
+   -1.0 bis 0.999..
+   einbinden der LIB???
+   
+** b
+   für die Datalines wird aAudioData verwendet mit der Range
+   (0 bis -(gAudioBitWidth-1))
+   was 0 bis -15 bzw. oder 0 bis -23 bedeutet für 16 bzw. 24 Bit gAudioBitwidth
+   dies entspricht einem Festkommaformat von:
+   1.15 bzw. 1.23
+
+** c
+   Der Wertebereich von fract_real basiert nicht auf einem fix
+   definiertem Wertebereich, sondern auf dem Wertebereich von real,
+   dadurch wird eine möglichst hohe Genauigkeiterreicht erreicht.
+
+   Die Audiosamples im Parprotokoll sind ebenfalls fract Zahlen,
+   jedoch basieren diese auf einer vorgegebenen Bitbreite.
+
+* Aufgabe 2
+** a
+   Im behavioral wird die .wav Datei nach dem vorgegebenen Protokoll
+   eingelesen. In den .wav Dateien kann das WAVE-Fileformat erkannt
+   werden.
+
+** b
+   Das gewünschte Ergebnis wurde erzielt.
+
+** c
+   Die Unit WavToPar unterstützt sowohl Stereo- als auch Mono-Formate,
+   die Mono-Tonspur wird auf beiden Kanälen ausgegeben.  Es werden nur
+   16-Bit-Formate unterstützt.
+
+** d
+   Die Unit WaveToPar liest die Abtastrate vom .wav-File ein,
+   verwendet wird diese Abtastrate jedoch nicht, also hat sie keine
+   Einfluss. Wenn die Abtastrate im File mehr als 100Hz von der
+   angegebenen Abtastrate abweicht wird eine Warning ausgegeben. Die
+   Ausgabe der Werte richtet sich nach dem LeftRightClock.
+
+* Aufgabe 3
+** a
+   Durch unterschiedliche Verzögerungen(z.B. DSP-Blöcke) auf den
+   Kanälen, können die Daten gleichzeitig Valid sein.
+
+** b
+   done
+   Das Mono-File wurde auf beiden Kanälen in ein Stereo-File abgespeichert.
+   Screenshot: SCD5_UE4_3b_ErrrAndWetErrr.PNG
+
+** c
+   done
+   Die Ergebnisdatei ist eine gültige Wave-Datei.
+   Screenshot: SCD5_UE4_3c_WetErrrAndWetErrrCancled.PNG
+
+* Aufgabe 4
+** a
+   overflow_style: fixed_warp und fixed_saturate(standard)
+   round_style:    fixed_truncate und fixed_round(standard)
+
+** b
+   Skizze: SCD5UE04_4b_rounding_overflow.png
+   Skizze: SCD5UE04_4b_rounding_saturation.png
+   Skizze: SCD5UE04_4b_truncate_overflow.png
+   Skizze: SCD5UE04_4b_truncate_saturation.png
+   Skizze: SCD5UE04_4b_round_to_zero_saturation.png
+   Nicht direkt aber sie kann als Basis dafür verwendet werden.
+
+** c
+   done
+
+** d
+   done
+
+** e
+   done
+   Screenshot: SCD5_UE4_4e_sim.PNG
+   Screenshot: SCD5_UE4_4e_gRegOutp_false.PNG
+   Screenshot: SCD5_UE4_4e_gRegOutp_true.PNG
+
+** f
+   Ja der Aufwand ist von der Konstanten mit der multipliziert wird
+   abhängig.  Werden 2er Potenzen als Konstante verwendet, so reicht
+   eine einfache Shift-operation.
+
+** g
+   done
+
+** h
+   done
+   Screenshot: SCD5_UE4_4h_tbdSim.PNG
+
+** i
+   done
+   Screenshot: SCD5_UE4_4i_audiotester.PNG
+
+* Aufgabe 5
+
+** a
+   done

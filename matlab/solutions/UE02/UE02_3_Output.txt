@@ -1,0 +1,67 @@
+scd2_3 : lowpass filter design 
+Butterworth.......................... 1
+Chebyshev I.......................... 2
+Chebyshev II......................... 3
+Cauer................................ 4
+standard approxmation .............. (4) : 
+passband cutoff frequency........ (0.05) : 
+passband ripple in dB............. (0.2) : 
+stopband cutoff frequency......... (0.1) : 
+stopband attenution in dB...........(40) : 
+word length in bits................ (16) : 
+
+filter coefficients
+   k  :     b(k)     :     a(k)
+   1      0.01007648     1.00000000 
+   2     -0.03520784    -3.73830204 
+   3      0.05063614     5.27140890 
+   4     -0.03520784    -3.32174614 
+   5      0.01007648     0.78902140 
+Weiter mit beliebiger Taste
+Weiter mit beliebiger Taste
+
+filter coefficients of block  1
+   k  :     b(k)     :     a(k)     :     bq(k)     :     aq(k)
+   1      0.01007648     1.00000000     0.01007080     1.00000000 
+                                          330 *LSB     32768 *LSB 
+   2     -0.01595018    -1.82073503    -0.01596069    -1.82073975 
+                                         -523 *LSB    -59662 *LSB 
+   3      0.01007648     0.83430876     0.01007080     0.83432007 
+                                          330 *LSB     27339 *LSB 
+Weiter mit beliebiger Taste
+
+filter coefficients of block  2
+   k  :     b(k)     :     a(k)     :     bq(k)     :     aq(k)
+   1      1.00000000     1.00000000     0.99996948     1.00000000 
+                                        32767 *LSB     32768 *LSB 
+   2     -1.91114814    -1.91756701    -1.91116333    -1.91754150 
+                                       -62625 *LSB    -62834 *LSB 
+   3      1.00000000     0.94571871     0.99996948     0.94570923 
+                                        32767 *LSB     30989 *LSB 
+Weiter mit beliebiger Taste
+Weiter mit beliebiger Taste
+
+ans =
+
+   1.2309e-10 + 1.4970e-09i
+
+
+ans =
+
+   0.1114 - 0.0700i
+
+
+ans =
+
+  -1.3333e-09 + 3.0553e-09i
+
+
+ans =
+
+  -0.0073 - 0.0023i
+
+Maximum deviation of magnitude of frequency response(s)
+ 
+Direct form implementation: 0.131501 
+ 
+Cascade implementation: 0.00765129 

@@ -1,0 +1,63 @@
+* Aufgabe 2
+
+* Aufgabe 3
+** a
+   -
+   
+** b
+   Der FPGA hat 32070 ALMs mit je 2 Registern. Das ergibt insgesamt 64140 Register.
+   Für ein Filter werden 32 Register + n-Mal 32 Register pro Filterkoeffizient gebraucht.
+   Bei 8 Koeffizienten ergibt das 288 Register nur für den Datenpfad. Es geht sich also
+   sicher aus.
+   
+** c
+   -
+   
+** d
+   done.
+   
+** e
+   
+** f
+   done.
+   
+** g
+
+
+** h
+
+
+** i
+   Der Baustein hat 4,065,280 Speicherbits. Bei einem 16 Bit Koeffizienten würde man 254,080 Koeffiziente
+   unterbringen bzw. die Hälfe, weil man die Eingangswerte auch speichern muss, also 127,040.
+   Ja, sie entspricht genau den erwartungen, Pro Eintrag werden 16 memory bits verwendet.
+
+** j
+   Die Anzahl der Koeffizienten ist durch die Taktferquenz und die Abtastfrequenz beschränkt, damit sich
+   die Berechnungen nicht überlappen. Hierbei wird von den Speicherlimitierungen des Chips abgesehen.
+   Hier verwendete Einstellungen: Takt: 48 MHz, Abtastfrequenz: 44117 Hz
+   
+   3 Takte + (2*n Takte)
+   1088 Takte in fs, -3 Takte Overhead = 1085 / 2 = 542
+   In der hier verwendeten Struktur können 542 Koeffizienten verwendet werden.
+
+** k
+
+** l
+
+** m
+   Bandpass:
+   Fs: 44117 Hz
+   Fstop1: 11063 Hz
+   Fpass1: 11463 Hz
+   Fpass2: 12663 Hz
+   Fstop2: 13063 Hz
+   Astop1 = Astop2 = -60dB
+   Apass: 0.5 dB
+
+* Vorgangsweise FIR
+  Clk Takt: N-Koeffizienten mit N-Audio Multiplizieren -> Multiplizierte Werte aufsummieren
+  Wenn N- Multiplikationen durchgeführt wurden, das Schieben des RAM ausschalten und auf 48KHz Takt warten. Sum-Register auf 0 setzen
+  Wenn 48kHz Takt eintrifft -> Audio-Sample RAM neuen wert einlesen letzten Wert verwerfen und ersten wert neu schreiben -> dann wieder von forn
+  FSMD für Steuersignale -> SelSumUp, Counter
+  Eigene Processes verwenden

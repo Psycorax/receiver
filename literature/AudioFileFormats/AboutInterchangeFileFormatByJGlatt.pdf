@@ -1,0 +1,1653 @@
+%PDF-1.5%âãÏÓ
+1 0 obj<</Pages 2 0 R/Outlines 6 0 R/Type/Catalog/Names 58 0 R/StructTreeRoot 7 0 R/Metadata 63 0 R/SpiderInfo 48 0 R>>endobj2 0 obj<</Count 8/Kids[11 0 R 14 0 R 16 0 R 18 0 R 20 0 R 22 0 R 24 0 R 26 0 R]/Type/Pages>>endobj3 0 obj<</ModDate(D:20031014124145+02'00')/CreationDate(D:20031014124143Z)/Title(About Interchange File Format)/Producer(Acrobat Web Capture 6.0)>>endobj5 0 obj nullendobj6 0 obj<</Count 2/Type/Outlines/First 61 0 R/Last 61 0 R>>endobj7 0 obj<</Type/StructTreeRoot/K 9 0 R/ClassMap 8 0 R/ParentTree 12 0 R/ParentTreeNextKey 8>>endobj8 0 obj<</SpdrArt<</O/WebCapture>>>>endobj9 0 obj<</K 10 0 R/P 7 0 R/S/Document>>endobj10 0 obj<</K[0<</Type/MCR/MCID 0/Pg 14 0 R>><</Type/MCR/MCID 0/Pg 16 0 R>><</Type/MCR/MCID 0/Pg 18 0 R>><</Type/MCR/MCID 0/Pg 20 0 R>><</Type/MCR/MCID 0/Pg 22 0 R>><</Type/MCR/MCID 0/Pg 24 0 R>><</Type/MCR/MCID 0/Pg 26 0 R>>]/C/SpdrArt/P 9 0 R/S/Article/Pg 11 0 R>>endobj11 0 obj<</ID 54 0 R/Contents 32 0 R/Type/Page/Parent 2 0 R/MediaBox[0.0 0.0 612.0 792.0]/Resources<</Font<</T1_0 28 0 R/T1_1 29 0 R/T1_2 30 0 R>>/ProcSet[/PDF/Text]>>/StructParents 0>>endobj12 0 obj<</Nums[0 13 0 R 1 15 0 R 2 17 0 R 3 19 0 R 4 21 0 R 5 23 0 R 6 25 0 R 7 27 0 R]>>endobj13 0 obj[10 0 R]endobj14 0 obj<</ID 54 0 R/Contents 34 0 R/Type/Page/Parent 2 0 R/MediaBox[0.0 0.0 612.0 792.0]/Resources<</Font<</T1_0 28 0 R/T1_1 29 0 R>>/ProcSet[/PDF/Text]>>/StructParents 1>>endobj15 0 obj[10 0 R]endobj16 0 obj<</ID 54 0 R/Contents 36 0 R/Type/Page/Parent 2 0 R/MediaBox[0.0 0.0 612.0 792.0]/Resources<</Font<</T1_0 28 0 R/T1_1 29 0 R/T1_2 30 0 R>>/ProcSet[/PDF/Text]>>/StructParents 2>>endobj17 0 obj[10 0 R]endobj18 0 obj<</ID 54 0 R/Contents 38 0 R/Type/Page/Parent 2 0 R/MediaBox[0.0 0.0 612.0 792.0]/Resources<</Font<</T1_0 28 0 R/T1_1 29 0 R>>/ProcSet[/PDF/Text]>>/StructParents 3>>endobj19 0 obj[10 0 R]endobj20 0 obj<</ID 54 0 R/Contents 40 0 R/Type/Page/Parent 2 0 R/MediaBox[0.0 0.0 612.0 792.0]/Resources<</Font<</T1_0 28 0 R/T1_1 29 0 R>>/ProcSet[/PDF/Text]>>/StructParents 4>>endobj21 0 obj[10 0 R]endobj22 0 obj<</ID 54 0 R/Contents 42 0 R/Type/Page/Parent 2 0 R/MediaBox[0.0 0.0 612.0 792.0]/Resources<</Font<</T1_0 28 0 R/T1_1 29 0 R>>/ProcSet[/PDF/Text]>>/StructParents 5>>endobj23 0 obj[10 0 R]endobj24 0 obj<</ID 54 0 R/Contents 44 0 R/Type/Page/Parent 2 0 R/MediaBox[0.0 0.0 612.0 792.0]/Resources<</Font<</T1_0 28 0 R/T1_1 29 0 R>>/ProcSet[/PDF/Text]>>/StructParents 6>>endobj25 0 obj[10 0 R]endobj26 0 obj<</ID 54 0 R/Contents 46 0 R/Type/Page/Parent 2 0 R/MediaBox[0.0 0.0 612.0 792.0]/Resources<</Font<</T1_0 28 0 R>>/ProcSet[/PDF/Text]>>/StructParents 7>>endobj27 0 obj[10 0 R]endobj28 0 obj<</Type/Font/Encoding/WinAnsiEncoding/BaseFont/Times-Roman/Subtype/Type1>>endobj29 0 obj<</Type/Font/Encoding/WinAnsiEncoding/BaseFont/Times-Bold/Subtype/Type1>>endobj30 0 obj<</Type/Font/Encoding/WinAnsiEncoding/BaseFont/Courier-Bold/Subtype/Type1>>endobj31 0 obj 4124endobj32 0 obj<</Length 31 0 R>>stream
+/Artifact <</Type /Pagination /BBox [18 778 582 787 ]/Attached [/Top ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(About Interchange File Format)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_0 1 Tf
+14 0 0 14 10 753.97556 Tm
+(Electronic Arts is a company that deserves credit for helping make life \easier for both programmers and )Tj
+0 -1.2 TD
+(end users. By establishing )Tj
+/T1_1 1 Tf
+(Interchange Format Files)Tj
+/T1_0 1 Tf
+( \(ie, IFF\) and releasing the documentation for )Tj
+T*
+(such, as well as C source code for reading and writing IFF type of files\, Electronic Arts has helped make )Tj
+T*
+(it easier for programmers to develop "backward compatible" and "extensib\le" file formats. IFF also )Tj
+T*
+(helps developers write programs that easily read data files created with\ each others' IFF compliant )Tj
+T*
+(software, even if there is no business relationship between the develope\rs. In a nutshell, IFF helps )Tj
+T*
+(minimize problems such as new versions of a particular program having tr\ouble reading data files )Tj
+T*
+(produced by older versions, or needing a new file format everytime a new\ version needs to store )Tj
+T*
+(additional information. It also encourages standardized file formats tha\t aren't tied to a particular )Tj
+T*
+(product. All of this is good for endusers because it means that their va\luable data isn't locked into some )Tj
+T*
+(proprietary standard that can't be used with a wide variety of hardware \and software. Above all else, )Tj
+T*
+(endusers don't want their work to be held hostage by a single, corporate\ entity over whom the enduser )Tj
+T*
+(has no direct control, but that's exactly what happens whenever an endus\er saves his data using a )Tj
+T*
+(program that produces a proprietary, unpublished file format. IFF helps \to break this needlessly )Tj
+T*
+(proprietary stranglehold that developers have exerted upon endusers' wor\ks. )Tj
+0 -2.55714 TD
+(An IFF file is a set of data that is in a form that many, unrelated prog\rams can read. An IFF file should )Tj
+0 -1.2 TD
+(not have anything in it that was intended specifically for just one, par\ticular program. If a program must )Tj
+T*
+(save some "personal" \(ie, proprietary\) data in an IFF file, it must be\ saved in a manner which allows )Tj
+T*
+(another program to "skip over" this data. There are several different ty\pes of IFF files. ILBM and GIFF )Tj
+T*
+(files store picture data. SMUS files store musical scores. WAVE and AIFF\ files store sampled sounds. )Tj
+T*
+(Each of these files must start with an ID which indicates that it is ind\eed an IFF file, followed by an ID )Tj
+T*
+(that indicates which type of file. So what is an ID? An ID is four, prin\table ascii characters \(ie, 8-bit )Tj
+T*
+(bytes\). If you use a file viewer \(capable of displaying each byte as a\n ascii character\) to look at an IFF )Tj
+T*
+(file, you will notice that every so often you will see 4 "readable" char\acters in a row. These 4 characters )Tj
+T*
+(are an ID. Every IFF file must start with one of the following 3 IDs. \(\I've enclosed each ID in single )Tj
+T*
+(quotes\).)Tj
+/T1_2 1 Tf
+0 -2.56197 TD
+('FORM')Tj
+0 -2.39999 TD
+('LIST')Tj
+T*
+('CAT ')Tj
+/T1_0 1 Tf
+0 -2.55232 TD
+(If the first 4 chars \(bytes\) in a file are not one of these, then it i\s not an IFF file. These IDs are referred to )Tj
+0 -1.2 TD
+(as )Tj
+/T1_1 1 Tf
+(group ID)Tj
+/T1_0 1 Tf
+(s in EA literature because each is like a "master ID" after which there \may follow more IDs )Tj
+T*
+(\(ie, chunks\) that are grouped under that master ID.)Tj
+0 -2.55714 TD
+(Note that the last character in the 'CAT ' ID is a blank space \(ie, asc\ii 32\).)Tj
+T*
+(After this group ID, there is an UNSIGNED LONG \(ie, 32-bit binary value\\) that indicates how many )Tj
+0 -1.2 TD
+(bytes are in the entire file. This count does not include the 4 byte gro\up ID, nor this ULONG. This )Tj
+ET
+EMC 
+/Artifact <</Type /Pagination /BBox [18 5 582 14 ]/Attached [/Bottom ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.borg.com/~jglatt/tech/aboutiff.htm \(1 of 8\)14.10.2003 14:41\:45)Tj
+ET
+EMC 
+
+endstreamendobj33 0 obj 5132endobj34 0 obj<</Length 33 0 R>>stream
+/Artifact <</Type /Pagination /BBox [18 778 582 787 ]/Attached [/Top ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(About Interchange File Format)Tj
+ET
+EMC 
+/WebCaptureBG BMC 
+/WebCaptureFN <</L 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [78.48317 659 600 677.79999 ]>>BDC 
+Q
+0.60001 0.8 0.8 rg
+78.48317 659 521.51683 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [78.48317 638.20001 600 657 ]>>BDC 
+Q
+78.48317 638.2 521.51683 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [78.48317 617.40002 600 636.20001 ]>>BDC 
+Q
+78.48317 617.39999 521.51683 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [78.48317 489.39999 600 508.20001 ]>>BDC 
+Q
+78.48317 489.39999 521.51683 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [78.48317 468.60001 600 487.39999 ]>>BDC 
+Q
+78.48317 468.60001 521.51683 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [78.48317 447.79999 600 466.60001 ]>>BDC 
+Q
+78.48317 447.8 521.51683 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [88.42569 267.20001 600 286 ]>>BDC 
+Q
+88.42569 267.2 511.57431 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [88.42569 246.39999 600 265.20001 ]>>BDC 
+Q
+88.42569 246.39999 511.57431 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [88.42569 225.60001 600 244.39999 ]>>BDC 
+Q
+88.42569 225.60001 511.57431 18.8 re
+f
+EMC 
+EMC 
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+0 0 0 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 10 753.97556 Tm
+(ULONG is useful if you wish to load the rest of the file into memory to \examine it. After this ULONG, )Tj
+0 -1.2 TD
+(there is an ID that indicates which type of IFF file this is. As mention\ed earlier, "ILBM", "WAVE", and )Tj
+T*
+("AIFF" are 3 types of IFF files. There are many more, and programmers ar\e always inventing new types )Tj
+T*
+(for lack of better things to do. Here is the beginning of a typical ILBM\ file.)Tj
+/T1_1 1 Tf
+0.21429 -2.77142 Td
+('FORM')Tj
+/T1_0 1 Tf
+4.74879 0 Td
+(OK. This really is an IFF file because it has one of the 3 defined group\ IDs.)Tj
+/T1_1 1 Tf
+-4.74879 -1.4857 Td
+(13000)Tj
+/T1_0 1 Tf
+4.74879 0 Td
+(There are 13000 more bytes after this ULONG.)Tj
+/T1_1 1 Tf
+-4.74879 -1.48572 Td
+('ILBM')Tj
+/T1_0 1 Tf
+4.74879 0 Td
+(It is an ILBM \(picture\) file.)Tj
+-4.96307 -2.77142 Td
+(All IFF files start with something similiar to the above, 12 byte "heade\r", except that instead of 'FORM', )Tj
+T*
+(the group ID can be 'LIST' or 'CAT '. Of course, the ULONG size and file\ type ID may be different in )Tj
+T*
+(various files, but nevertheless, a 12 byte header always appears at the \beginning of an IFF file. For )Tj
+T*
+(example, here's an example AIFF header:)Tj
+/T1_1 1 Tf
+0.21429 -2.77142 Td
+('FORM')Tj
+/T1_0 1 Tf
+4.74879 0 Td
+(OK. This really is an IFF file because it has one of the 3 defined group\ IDs.)Tj
+/T1_1 1 Tf
+-4.74879 -1.48572 Td
+(4000)Tj
+/T1_0 1 Tf
+4.74879 0 Td
+(There are 4000 more bytes after this ULONG.)Tj
+/T1_1 1 Tf
+-4.74879 -1.4857 Td
+('AIFF')Tj
+/T1_0 1 Tf
+4.74879 0 Td
+(It is an AIFF \(digital audio\) file.)Tj
+-4.96307 -2.77142 Td
+(What you find after the header depends on which type it is \(ie, From he\re on, an ILBM will be different )Tj
+T*
+(than an AIFF\).)Tj
+0 -2.55714 TD
+(One thing that all IFF files do have in common after the group ID, byte \count, and type ID, is that data is )Tj
+0 -1.2 TD
+(organized into chunks. OK, more jargon. What's a chunk? A chunk consists\ of an ID, a ULONG that )Tj
+T*
+(tells how many bytes of data are in the chunk, and then all those data b\ytes. For example, here is a )Tj
+T*
+(CMAP chunk \(which would be found in an ILBM file\).)Tj
+/T1_1 1 Tf
+0.21429 -2.77142 Td
+('CMAP')Tj
+/T1_0 1 Tf
+5.45897 0 Td
+(This is the 4 byte chunk ID.)Tj
+/T1_1 1 Tf
+-5.45897 -1.48572 Td
+(6)Tj
+/T1_0 1 Tf
+5.45897 0 Td
+(This tells how many data bytes are in the chunk \(ie, This is the chunkS\ize\).)Tj
+/T1_1 1 Tf
+-5.45897 -1.4857 Td
+(0,0,0,1,1,4)Tj
+/T1_0 1 Tf
+5.45897 0 Td
+(Here are the 6 data bytes.)Tj
+-5.67326 -2.77142 Td
+(Notice that the chunk size doesn't include the 4 byte ID or the ULONG fo\r the chunk Size. )Tj
+0 -2.55714 TD
+(So, all IFF files are made up of several chunks \(ie, groups of data\). \Each group of data starts with a )Tj
+0 -1.2 TD
+(convenient ID \(so that a program can ascertain what kind of data is in \the chunk\) and a ULONG size \(so )Tj
+T*
+(that a program can ascertain how many bytes of data are in the chunk\). \There are a few other details to )Tj
+T*
+(note. A chunk cannot have an odd number of data bytes \(such as 3\). If \necessary, an extra zero byte must )Tj
+T*
+(be written to make an even number of data bytes. The chunk Size doesn't \include this extra byte. So for )Tj
+T*
+(example, if you want to write 3 bytes in a CMAP chunk, it would look lik\e this:)Tj
+ET
+EMC 
+/Artifact <</Type /Pagination /BBox [18 5 582 14 ]/Attached [/Bottom ]>>BDC 
+Q
+0 0 0 rg
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.borg.com/~jglatt/tech/aboutiff.htm \(2 of 8\)14.10.2003 14:41\:45)Tj
+ET
+EMC 
+
+endstreamendobj35 0 obj 4133endobj36 0 obj<</Length 35 0 R>>stream
+/Artifact <</Type /Pagination /BBox [18 778 582 787 ]/Attached [/Top ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(About Interchange File Format)Tj
+ET
+EMC 
+/WebCaptureBG BMC 
+/WebCaptureFN <</L 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [124.26208 724.40002 600 743.20001 ]>>BDC 
+Q
+0.60001 0.8 0.8 rg
+124.26208 724.39999 475.73792 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [124.26208 703.59998 600 722.40002 ]>>BDC 
+Q
+124.26208 703.60001 475.73792 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [80.0285 435 600 453.79999 ]>>BDC 
+Q
+80.0285 435 519.9715 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [170.85225 315.79999 600 334.60001 ]>>BDC 
+Q
+170.85225 315.8 429.14775 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [163.42 179.8 600 198.60001 ]>>BDC 
+Q
+163.42 179.8 436.58 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [163.42 108.60001 600 177.8 ]>>BDC 
+Q
+163.42 108.60001 436.58 69.2 re
+f
+EMC 
+EMC 
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+0 0 0 rg
+BT
+/T1_1 1 Tf
+14 0 0 14 13 750.97556 Tm
+('CMAP')Tj
+0 -1.4857 TD
+(3)Tj
+/T1_0 1 Tf
+8.01872 0 Td
+(Note that chunk Size is 3.)Tj
+/T1_1 1 Tf
+-8.01872 -1.48572 Td
+(0,1,33,0)Tj
+/T1_0 1 Tf
+8.01872 0 Td
+(Note that there is an extra zero byte.)Tj
+-8.23302 -2.77142 Td
+(The reason for this extra "pad byte" for odd-sized chunks has to do with\ Motorola's 68000 CPU )Tj
+0 -1.2 TD
+(requiring that LONGs be aligned to even memory addresses. IFF files were\ first used on 68000 based )Tj
+T*
+(computers, and padding out odd-sized chunks made it easier to load and p\arse an IFF file on such a )Tj
+T*
+(computer \(ie, if you load the entire file into a single block of RAM st\arting upon an even address, all of )Tj
+T*
+(the chunk IDs and Sizes will conveniently fall upon even memory addresse\s\).)Tj
+0 -2.55714 TD
+(In the preceding example, the group ID was 'FORM'. There are 2 other gro\up IDs as well. A 'CAT ' is a )Tj
+0 -1.2 TD
+(collection of many different FORMs all stuck together consecutively in 1\ IFF file. For example, if you )Tj
+T*
+(had an animation with 6 sound effects, you might save the animation fram\es in an ANIM FORM, and )Tj
+T*
+(you might save the sound effects in several AIFF FORMs \(one per sound e\ffect\). You could save the )Tj
+T*
+(animation and sound in 7 separate files. The ANIM file would start this \way:)Tj
+/T1_1 1 Tf
+0.21429 -2.77142 Td
+(FORM)Tj
+0 -1.4857 TD
+(120000)Tj
+/T1_0 1 Tf
+4.85918 0 Td
+(Whatever the size happens to be \(this is expressed in 32 bits\).)Tj
+/T1_1 1 Tf
+-4.85918 -1.48572 Td
+(ANIM)Tj
+/T1_0 1 Tf
+-0.21429 -2.77142 Td
+(Each AIFF file would start this way: )Tj
+/T1_1 1 Tf
+0.21429 -2.77142 Td
+(FORM)Tj
+0 -1.48572 TD
+(8000)Tj
+/T1_0 1 Tf
+11.34659 0 Td
+(whatever size.)Tj
+/T1_1 1 Tf
+-11.34659 -1.4857 Td
+(AIFF)Tj
+/T1_0 1 Tf
+-0.21429 -2.77142 Td
+(If the user wanted to copy the data to another disk, he would have to co\py 7 files. On the other hand, you )Tj
+0 -1.2 TD
+(could save all the data in one CAT file. )Tj
+/T1_1 1 Tf
+0.21429 -2.77142 Td
+(CAT)Tj
+0 -1.4857 TD
+(4+120008+8008+2028+...)Tj
+/T1_0 1 Tf
+10.8157 0 Td
+(The total size of the ANIM and the 6 AIFF files.)Tj
+/T1_2 1 Tf
+-10.8157 -1.49052 Td
+('    ')Tj
+/T1_0 1 Tf
+10.8157 0.00481 Td
+(Type of CAT. 4 spaces for the type ID means "a grab bag" of IFF FORMs )Tj
+0 -1.2 TD
+(are going to be inside of this CAT. If it just so happened that all of t\he )Tj
+T*
+(enclosed FORMs were 1 type, such as ILBM, then this type ID would be )Tj
+T*
+('ILBM'.)Tj
+ET
+0.5 0.5 0.5 rg
+13 96.60001 m
+13 98.60001 l
+160.42 98.60001 l
+159.42 97.60001 l
+14 97.60001 l
+14 97.60001 l
+h
+f
+0.875 0.875 0.875 rg
+160.42 98.60001 m
+160.42 96.60001 l
+13 96.60001 l
+14 97.60001 l
+159.42 97.60001 l
+159.42 97.60001 l
+h
+f
+0 0 0 rg
+BT
+/T1_1 1 Tf
+14 0 0 14 13 73.57556 Tm
+(FORM)Tj
+0 -1.4857 TD
+(120000)Tj
+ET
+EMC 
+/Artifact <</Type /Pagination /BBox [18 5 582 14 ]/Attached [/Bottom ]>>BDC 
+Q
+0 0 0 rg
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.borg.com/~jglatt/tech/aboutiff.htm \(3 of 8\)14.10.2003 14:41\:45)Tj
+ET
+EMC 
+
+endstreamendobj37 0 obj 5102endobj38 0 obj<</Length 37 0 R>>stream
+/Artifact <</Type /Pagination /BBox [18 778 582 787 ]/Attached [/Top ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(About Interchange File Format)Tj
+ET
+EMC 
+/WebCaptureBG BMC 
+/WebCaptureFN <</L 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [163.42 690.79999 600 743.20001 ]>>BDC 
+Q
+0.60001 0.8 0.8 rg
+163.42 690.8 436.58 52.39999 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [163.42 587.59998 600 606.40002 ]>>BDC 
+Q
+163.42 587.60001 436.58 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [163.42 484.39999 600 503.20001 ]>>BDC 
+Q
+163.42 484.39999 436.58 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [163.42 443.60001 600 462.39999 ]>>BDC 
+Q
+163.42 443.60001 436.58 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [104.31676 298.79999 600 317.60001 ]>>BDC 
+Q
+104.31676 298.8 495.68324 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [104.31676 278 600 296.79999 ]>>BDC 
+Q
+104.31676 278 495.68324 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [104.31676 257.20001 600 276 ]>>BDC 
+Q
+104.31676 257.2 495.68324 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [104.31676 236.39999 600 255.2 ]>>BDC 
+Q
+104.31676 236.39999 495.68324 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [104.31676 215.60001 600 234.39999 ]>>BDC 
+Q
+104.31676 215.60001 495.68324 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [79.27441 50 600 68.8 ]>>BDC 
+Q
+79.27441 50 520.72559 18.8 re
+f
+EMC 
+EMC 
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+0 0 0 rg
+BT
+/T1_1 1 Tf
+14 0 0 14 13 750.97556 Tm
+(ANIM)Tj
+/T1_0 1 Tf
+10.8157 -1.4857 Td
+(...all the chunks in the ANIM file placed here. \(Note: ANIMs have )Tj
+0 -1.2 TD
+(imbedded ILBM FORMs. The guy who devised the ANIM type of IFF file )Tj
+T*
+(broke the rules by mistake, and nobody caught his error until it was too\ late\).)Tj
+ET
+0.5 0.5 0.5 rg
+13 678.8 m
+13 680.8 l
+160.42 680.8 l
+159.42 679.8 l
+14 679.8 l
+14 679.8 l
+h
+f
+0.875 0.875 0.875 rg
+160.42 680.8 m
+160.42 678.8 l
+13 678.8 l
+14 679.8 l
+159.42 679.8 l
+159.42 679.8 l
+h
+f
+0 0 0 rg
+BT
+/T1_1 1 Tf
+14 0 0 14 13 655.77556 Tm
+(FORM)Tj
+0 -1.4857 TD
+(8000)Tj
+0 -1.48572 TD
+(AIFF)Tj
+/T1_0 1 Tf
+10.8157 -1.4857 Td
+(...all the chunks in the first sound effect here.)Tj
+ET
+0.5 0.5 0.5 rg
+13 575.60001 m
+13 577.60001 l
+160.42 577.60001 l
+159.42 576.60001 l
+14 576.60001 l
+14 576.60001 l
+h
+f
+0.875 0.875 0.875 rg
+160.42 577.60001 m
+160.42 575.60001 l
+13 575.60001 l
+14 576.60001 l
+159.42 576.60001 l
+159.42 576.60001 l
+h
+f
+0 0 0 rg
+BT
+/T1_1 1 Tf
+14 0 0 14 13 552.57556 Tm
+(FORM)Tj
+0 -1.4857 TD
+(2020)Tj
+0 -1.48572 TD
+(AIFF)Tj
+/T1_0 1 Tf
+10.8157 -1.4857 Td
+(...all the chunks in the second sound effect here.)Tj
+ET
+0.5 0.5 0.5 rg
+13 472.39999 m
+13 474.39999 l
+160.42 474.39999 l
+159.42 473.39999 l
+14 473.39999 l
+14 473.39999 l
+h
+f
+0.875 0.875 0.875 rg
+160.42 474.39999 m
+160.42 472.39999 l
+13 472.39999 l
+14 473.39999 l
+159.42 473.39999 l
+159.42 473.39999 l
+h
+f
+0 0 0 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 164.42 449.37555 Tm
+(...etc. for the other 4 sound effects.)Tj
+-11.03 -2.77142 Td
+(To further complicate matters, there are LISTs. LISTs are a lot like CAT\s except that there is an )Tj
+0 -1.2 TD
+(optional, additional group ID associated with LISTs. That ID is a PROP. \LISTs can have imbedded )Tj
+T*
+(PROPS just like an ILBM can have an imbedded CMAP chunk. A PROP header l\ooks very much like a )Tj
+T*
+(FORM header in that you must follow it with a type ID. For example, here\ is an ILBM PROP with a )Tj
+T*
+(CMAP in it. )Tj
+/T1_1 1 Tf
+0.21429 -2.77142 Td
+(PROP)Tj
+/T1_0 1 Tf
+6.59406 0 Td
+(Here's a PROP.)Tj
+/T1_1 1 Tf
+-6.59406 -1.4857 Td
+(4+14)Tj
+/T1_0 1 Tf
+6.59406 0 Td
+(Here's how many bytes follow in the PROP.)Tj
+/T1_1 1 Tf
+-6.59406 -1.48572 Td
+(ILBM)Tj
+/T1_0 1 Tf
+6.59406 0 Td
+(It's an ILBM PROP.)Tj
+/T1_1 1 Tf
+-6.59406 -1.4857 Td
+('CMAP')Tj
+/T1_0 1 Tf
+6.59406 0 Td
+(Here's a CMAP chunk inside of this ILBM PROP.)Tj
+/T1_1 1 Tf
+-6.59406 -1.4857 Td
+(6)Tj
+/T1_0 1 Tf
+6.59406 0 Td
+(There are 6 bytes following in this CMAP chunk.)Tj
+/T1_1 1 Tf
+-6.59406 -1.48572 Td
+(0,0,0,1,1,4)Tj
+/T1_0 1 Tf
+-0.21429 -2.77142 Td
+(LISTs are meant to encompass similiar FORMs \(i.e. several AIFF files st\uck together\). Often, when you )Tj
+T*
+(have similiar FORMs stuck together, some of the chunks in the individual\ FORMs are the same. For )Tj
+T*
+(example, assume that we have 2 AIFF sound effects. AIFF FORMs can have a\ NAME chunk which )Tj
+T*
+(contains the ascii string that is the name of the sound effect. Also ass\ume that both sounds are called )Tj
+T*
+("car crash". With a CAT, we end up having 2 identical NAME chunks in eac\h AIFF FORM like so: )Tj
+/T1_1 1 Tf
+0.21429 -2.77142 Td
+(CAT)Tj
+/T1_0 1 Tf
+4.80531 0 Td
+(We put the 2 files into 1 CAT.)Tj
+ET
+EMC 
+/Artifact <</Type /Pagination /BBox [18 5 582 14 ]/Attached [/Bottom ]>>BDC 
+Q
+0 0 0 rg
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.borg.com/~jglatt/tech/aboutiff.htm \(4 of 8\)14.10.2003 14:41\:45)Tj
+ET
+EMC 
+
+endstreamendobj39 0 obj 5094endobj40 0 obj<</Length 39 0 R>>stream
+/Artifact <</Type /Pagination /BBox [18 778 582 787 ]/Attached [/Top ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(About Interchange File Format)Tj
+ET
+EMC 
+/WebCaptureBG BMC 
+/WebCaptureFN <</L 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [79.27441 724.40002 600 743.20001 ]>>BDC 
+Q
+0.60001 0.8 0.8 rg
+79.27441 724.39999 520.72559 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [79.27441 683.59998 600 702.40002 ]>>BDC 
+Q
+79.27441 683.60001 520.72559 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [79.27441 621.20001 600 640 ]>>BDC 
+Q
+79.27441 621.2 520.72559 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [79.27441 600.40002 600 619.20001 ]>>BDC 
+Q
+79.27441 600.39999 520.72559 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [79.27441 538 600 556.79999 ]>>BDC 
+Q
+79.27441 538 520.72559 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [79.27441 497.20001 600 516 ]>>BDC 
+Q
+79.27441 497.2 520.72559 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [79.27441 434.79999 600 453.60001 ]>>BDC 
+Q
+79.27441 434.8 520.72559 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [79.27441 414 600 432.79999 ]>>BDC 
+Q
+79.27441 414 520.72559 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [79.27441 351.60001 600 370.39999 ]>>BDC 
+Q
+79.27441 351.60001 520.72559 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [62.9348 240.39999 600 259.20001 ]>>BDC 
+Q
+62.9348 240.39999 537.0652 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [62.9348 158 600 176.8 ]>>BDC 
+Q
+62.9348 158 537.0652 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [62.9348 116.39999 600 135.2 ]>>BDC 
+Q
+62.9348 116.39999 537.0652 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [62.9348 95.60001 600 114.39999 ]>>BDC 
+Q
+62.9348 95.60001 537.0652 18.8 re
+f
+EMC 
+EMC 
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+0 0 0 rg
+BT
+/T1_1 1 Tf
+14 0 0 14 13 750.97556 Tm
+(4+1008+508)Tj
+0 -1.4857 TD
+(AIFF)Tj
+/T1_0 1 Tf
+4.80531 0 Td
+(It's a CAT of several AIFF FORMs.)Tj
+ET
+0.5 0.5 0.5 rg
+13 712.39999 m
+13 714.39999 l
+76.27441 714.39999 l
+75.27441 713.39999 l
+14 713.39999 l
+14 713.39999 l
+h
+f
+0.875 0.875 0.875 rg
+76.27441 714.39999 m
+76.27441 712.39999 l
+13 712.39999 l
+14 713.39999 l
+75.27441 713.39999 l
+75.27441 713.39999 l
+h
+f
+0 0 0 rg
+BT
+/T1_1 1 Tf
+14 0 0 14 13 689.37555 Tm
+(FORM)Tj
+/T1_0 1 Tf
+4.80531 0 Td
+(Here's the start of the first sound effect file.)Tj
+/T1_1 1 Tf
+-4.80531 -1.4857 Td
+(1000)Tj
+0 -1.48572 TD
+(AIFF)Tj
+/T1_0 1 Tf
+4.80531 -1.4857 Td
+(...other chunks may be inserted here.)Tj
+/T1_1 1 Tf
+-4.80531 -1.48572 Td
+(NAME)Tj
+/T1_0 1 Tf
+4.80531 0 Td
+(Here's the name chunk for the 1st sound effect.)Tj
+/T1_1 1 Tf
+-4.80531 -1.4857 Td
+(9)Tj
+0 -1.4857 TD
+('car crash',0)Tj
+/T1_0 1 Tf
+4.80531 -1.48572 Td
+(...other chunks may be inserted here.)Tj
+ET
+0.5 0.5 0.5 rg
+13 526 m
+13 528 l
+76.27441 528 l
+75.27441 527 l
+14 527 l
+14 527 l
+h
+f
+0.875 0.875 0.875 rg
+76.27441 528 m
+76.27441 526 l
+13 526 l
+14 527 l
+75.27441 527 l
+75.27441 527 l
+h
+f
+0 0 0 rg
+BT
+/T1_1 1 Tf
+14 0 0 14 13 502.97556 Tm
+(FORM)Tj
+/T1_0 1 Tf
+4.80531 0 Td
+(Here's the start of the 2nd sound effect file.)Tj
+/T1_1 1 Tf
+-4.80531 -1.4857 Td
+(500)Tj
+0 -1.48572 TD
+(AIFF)Tj
+/T1_0 1 Tf
+4.80531 -1.4857 Td
+(...other chunks may be inserted here.)Tj
+/T1_1 1 Tf
+-4.80531 -1.48572 Td
+(NAME)Tj
+/T1_0 1 Tf
+4.80531 0 Td
+(Here's the name chunk for the 2nd sound effect. Look familiar?)Tj
+/T1_1 1 Tf
+-4.80531 -1.4857 Td
+(9)Tj
+T*
+('car crash',0)Tj
+/T1_0 1 Tf
+4.80531 -1.4857 Td
+(...other chunks may be inserted here.)Tj
+-5.01961 -2.77142 Td
+(With a LIST, we can have PROPs. A PROP is group ID that allows us to pla\ce chunks that pertain to all )Tj
+0 -1.2 TD
+(the FORMs in the LIST. So, we can rip out the NAME chunks inside both AI\FF FORMs and replace it )Tj
+T*
+(with one NAME chunk inside of a PROP. )Tj
+/T1_1 1 Tf
+0.21429 -2.77142 Td
+(LIST)Tj
+/T1_0 1 Tf
+3.6382 0 Td
+(Notice that we use a LIST instead of a CAT.)Tj
+/T1_1 1 Tf
+-3.6382 -1.4857 Td
+(4+30+990+490+...)Tj
+0 -1.48572 TD
+(AIFF)Tj
+ET
+0.5 0.5 0.5 rg
+13 186.8 m
+13 188.8 l
+59.9348 188.8 l
+58.9348 187.8 l
+14 187.8 l
+14 187.8 l
+h
+f
+0.875 0.875 0.875 rg
+59.9348 188.8 m
+59.9348 186.8 l
+13 186.8 l
+14 187.8 l
+58.9348 187.8 l
+58.9348 187.8 l
+h
+f
+0 0 0 rg
+BT
+/T1_1 1 Tf
+14 0 0 14 13 163.77556 Tm
+(PROP)Tj
+/T1_0 1 Tf
+3.6382 0 Td
+(Here's where we put chunks intended for ALL the subsequent FORMS; inside\ a PROP.)Tj
+/T1_1 1 Tf
+-3.6382 -1.4857 Td
+(22)Tj
+T*
+(AIFF)Tj
+/T1_0 1 Tf
+3.6382 0 Td
+(Type of PROP.)Tj
+/T1_1 1 Tf
+-3.6382 -1.4857 Td
+(NAME)Tj
+/T1_0 1 Tf
+3.6382 0 Td
+(Here's the name chunk inside of the PROP.)Tj
+/T1_1 1 Tf
+-3.6382 -1.48572 Td
+(9)Tj
+0 -1.4857 TD
+('car crash',0)Tj
+ET
+EMC 
+/Artifact <</Type /Pagination /BBox [18 5 582 14 ]/Attached [/Bottom ]>>BDC 
+Q
+0 0 0 rg
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.borg.com/~jglatt/tech/aboutiff.htm \(5 of 8\)14.10.2003 14:41\:45)Tj
+ET
+EMC 
+
+endstreamendobj41 0 obj 4501endobj42 0 obj<</Length 41 0 R>>stream
+/Artifact <</Type /Pagination /BBox [18 778 582 787 ]/Attached [/Top ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(About Interchange File Format)Tj
+ET
+EMC 
+/WebCaptureBG BMC 
+/WebCaptureFN <</L 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [62.9348 725.20001 600 744 ]>>BDC 
+Q
+0.60001 0.8 0.8 rg
+62.9348 725.2 537.0652 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [62.9348 704.40002 600 723.20001 ]>>BDC 
+Q
+62.9348 704.39999 537.0652 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [62.9348 662.79999 600 681.59998 ]>>BDC 
+Q
+62.9348 662.8 537.0652 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [62.9348 622 600 640.79999 ]>>BDC 
+Q
+62.9348 622 537.0652 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [62.9348 559.59998 600 578.40002 ]>>BDC 
+Q
+62.9348 559.60001 537.0652 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [183.54938 123.2 600 142 ]>>BDC 
+Q
+183.54938 123.2 416.45062 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [183.54938 102.39999 600 121.2 ]>>BDC 
+Q
+183.54938 102.39999 416.45062 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [183.54938 81.60001 600 100.39999 ]>>BDC 
+Q
+183.54938 81.60001 416.45062 18.8 re
+f
+EMC 
+EMC 
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+0.5 0.5 0.5 rg
+13 754 m
+13 756 l
+59.9348 756 l
+58.9348 755 l
+14 755 l
+14 755 l
+h
+f
+0.875 0.875 0.875 rg
+59.9348 756 m
+59.9348 754 l
+13 754 l
+14 755 l
+58.9348 755 l
+58.9348 755 l
+h
+f
+0 0 0 rg
+BT
+/T1_1 1 Tf
+14 0 0 14 13 730.97556 Tm
+(FORM)Tj
+/T1_0 1 Tf
+3.6382 0 Td
+(Here's the start of the first sound effect file.)Tj
+/T1_1 1 Tf
+-3.6382 -1.4857 Td
+(982)Tj
+/T1_0 1 Tf
+3.6382 0 Td
+(Size is 18 bytes less because no NAME chunk here.)Tj
+/T1_1 1 Tf
+-3.6382 -1.48572 Td
+(AIFF)Tj
+/T1_0 1 Tf
+3.6382 -1.4857 Td
+(...other chunks may be inserted here, but no NAME chunk needed.)Tj
+ET
+0.5 0.5 0.5 rg
+13 650.8 m
+13 652.8 l
+59.9348 652.8 l
+58.9348 651.8 l
+14 651.8 l
+14 651.8 l
+h
+f
+0.875 0.875 0.875 rg
+59.9348 652.8 m
+59.9348 650.8 l
+13 650.8 l
+14 651.8 l
+58.9348 651.8 l
+58.9348 651.8 l
+h
+f
+0 0 0 rg
+BT
+/T1_1 1 Tf
+14 0 0 14 13 627.77556 Tm
+(FORM)Tj
+/T1_0 1 Tf
+3.6382 0 Td
+(Here's the start of the 2nd sound effect file.)Tj
+/T1_1 1 Tf
+-3.6382 -1.4857 Td
+(482)Tj
+0 -1.48572 TD
+(AIFF)Tj
+/T1_0 1 Tf
+3.6382 -1.4857 Td
+(...other chunks may be inserted here, but no NAME needed for this guy ei\ther.)Tj
+-3.85249 -2.77142 Td
+(Notice that the PROP group ID is followed by a type ID \(in this case AI\FF\). This means that the PROP )Tj
+0 -1.2 TD
+(only affects any AIFF FORMs. If you were to sneak in an SMUS FORM at the\ end, the NAME chunk )Tj
+T*
+(would not apply to it. Also, if you included a NAME chunk in one of the \AIFF FORMs, it would )Tj
+T*
+(override the PROP. For example, assume that you have a LIST containing 1\0 AIFF FORMs. All but 1 of )Tj
+T*
+(them is named "Snare Hit". You can store a NAME chunk in a PROP AIFF for\ "Snare Hit". Then, in the )Tj
+T*
+(one AIFF FORM whose name is not "Snare Hit", you can include a NAME chun\k to override the )Tj
+T*
+(NAME chunk in the PROP. )Tj
+0 -2.55714 TD
+(It should be noted that you can take several LISTs and squash them toget\her inside of a CAT or another )Tj
+0 -1.2 TD
+(LIST. Personally, I have never seen a data file with this level of nesti\ng, and doubt that it would be of )Tj
+T*
+(much use.)Tj
+0 -2.55714 TD
+(In the above examples, psuedo code was used to represent the headers. Le\t's look at how a hex file )Tj
+0 -1.2 TD
+(viewer might display the actual contents of an IFF file \(in hex bytes\)\. First, an IFF header for a FORM )Tj
+T*
+(AIFF, psuedo code.)Tj
+/T1_1 1 Tf
+0.21429 -2.77142 Td
+(FORM)Tj
+0 -1.4857 TD
+(4096)Tj
+T*
+(AIFF)Tj
+/T1_0 1 Tf
+-0.21429 -2.77142 Td
+(Now here's a view of the actual data file. )Tj
+/T1_1 1 Tf
+0.21429 -2.77142 Td
+(46 4F 52 4D)Tj
+/T1_0 1 Tf
+12.25352 0 Td
+(FORM)Tj
+/T1_1 1 Tf
+-12.25352 -1.48572 Td
+(00 00 10 00)Tj
+/T1_0 1 Tf
+12.25352 0 Td
+(hex 00001000, or 4096 decimal)Tj
+/T1_1 1 Tf
+-12.25352 -1.4857 Td
+(41 49 46 46)Tj
+/T1_0 1 Tf
+12.25352 0 Td
+(AIFF)Tj
+-12.46782 -2.77142 Td
+(Note that the ULONG byte count is stored in Big Endian order \(ie, the M\ost Significant Byte is first, and )Tj
+ET
+EMC 
+/Artifact <</Type /Pagination /BBox [18 5 582 14 ]/Attached [/Bottom ]>>BDC 
+Q
+0 0 0 rg
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.borg.com/~jglatt/tech/aboutiff.htm \(6 of 8\)14.10.2003 14:41\:45)Tj
+ET
+EMC 
+
+endstreamendobj43 0 obj 4945endobj44 0 obj<</Length 43 0 R>>stream
+/Artifact <</Type /Pagination /BBox [18 778 582 787 ]/Attached [/Top ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(About Interchange File Format)Tj
+ET
+EMC 
+/WebCaptureBG BMC 
+/WebCaptureFN <</L 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [180.42067 556 600 574.79999 ]>>BDC 
+Q
+0.60001 0.8 0.8 rg
+180.42067 556 419.57933 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [180.42067 535.20001 600 554 ]>>BDC 
+Q
+180.42067 535.2 419.57933 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [180.42067 514.40002 600 533.20001 ]>>BDC 
+Q
+180.42067 514.39999 419.57933 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [65.73109 197.2 600 216 ]>>BDC 
+Q
+65.73109 197.2 534.26891 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [65.73109 176.39999 600 195.2 ]>>BDC 
+Q
+65.73109 176.39999 534.26891 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [65.73109 155.60001 600 174.39999 ]>>BDC 
+Q
+65.73109 155.60001 534.26891 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [162.08524 61.2 600 80 ]>>BDC 
+Q
+162.08524 61.2 437.91476 18.8 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [162.08524 40.39999 600 59.2 ]>>BDC 
+Q
+162.08524 40.39999 437.91476 18.8 re
+f
+EMC 
+EMC 
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+0 0 0 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 10 753.97556 Tm
+(the Least Significant Byte is last\). This is how the Motorola 680x0 sto\res long values in memory \(ie, the )Tj
+0 -1.2 TD
+(opposite order of Intel 80x86\). IFF files use Big Endian order for all \16-bit \(ie, SHORT\) and 32-bit \(ie, )Tj
+T*
+(LONG\) values. )Tj
+0 -2.55714 TD
+(Microsoft decided that IFF was a good idea, but since Windows is traditi\onally tethered to Intel CPUs, a )Tj
+0 -1.2 TD
+(version of IFF was needed which stored LONG or SHORT values in Little En\dian order. So, MS )Tj
+T*
+(decided to create some new group IDs. MS took the FORM ID and created a \Little Endian version of it )Tj
+T*
+(known as RIFF. For example, the WAVE file format has a RIFF group ID. Al\l of the SHORT and )Tj
+T*
+(LONG values in the file are stored in Little Endian order. Let's take a \look at an example header for a )Tj
+T*
+(WAVE file. Assume that there are 258 bytes of data after the byte count.\)Tj
+/T1_1 1 Tf
+0.21429 -2.77142 Td
+(52 49 46 46)Tj
+/T1_0 1 Tf
+12.03004 0 Td
+(RIFF)Tj
+/T1_1 1 Tf
+-12.03004 -1.48572 Td
+(02 01 00 00)Tj
+/T1_0 1 Tf
+12.03004 0 Td
+(hex 00000102, or 258 decimal)Tj
+/T1_1 1 Tf
+-12.03004 -1.4857 Td
+(57 41 56 45)Tj
+/T1_0 1 Tf
+12.03004 0 Td
+(WAVE)Tj
+-12.24432 -2.77142 Td
+(Note that the ULONG byte count is stored in Little Endian order \(ie, th\e Least Significant Byte is first, )Tj
+T*
+(and the Most Significant Byte is last\). Good old backwards-thinking Int\el. )Tj
+0 -2.55714 TD
+(Now, there's some real justification for creating a RIFF group ID, if yo\u're working with an Intel CPU. )Tj
+0 -1.2 TD
+(But Microsoft couldn't stop there. True to their "not made here, so if w\e're going to accept it, we have to )Tj
+T*
+(inflict our brutish, unneeded brand upon it" mentality, Microsoft create\d another group ID called RIFX. )Tj
+T*
+(What's an RIFX file? It's simply a FORM with RIFX replacing the FORM ID.\ So, if you want to turn a )Tj
+T*
+(FORM AIFF into a RIFX AIFF, you just change the first 4 bytes to RIFX. N\eedless to say, nobody has )Tj
+T*
+(ever used the RIFX group ID, and it will undoubtably suffer a justifiabl\y ignoble disappearance.)Tj
+0 -2.55714 TD
+(Just like everyone else, programmers make mistakes. As mentioned before,\ the Amiga's ANIM file )Tj
+0 -1.2 TD
+(format was a mistake. It puts FORM headers inside of a FORM group ID. Th\at's not supposed to )Tj
+T*
+(happen. You can put FORM headers inside of a CAT or LIST, but not anothe\r FORM. A mistake was )Tj
+T*
+(also made with the MIDI file format. The programmer who devised it didn'\t put a proper IFF header on )Tj
+T*
+(the file. It should be:)Tj
+/T1_1 1 Tf
+0.21429 -2.77142 Td
+(FORM)Tj
+/T1_0 1 Tf
+3.83794 0 Td
+(group ID. Indicates an IFF file that contains one type of data.)Tj
+/T1_1 1 Tf
+-3.83794 -1.48572 Td
+(3000)Tj
+/T1_0 1 Tf
+3.83794 0 Td
+(whatever size the file happens to be.)Tj
+/T1_1 1 Tf
+-3.83794 -1.4857 Td
+(MIDI)Tj
+/T1_0 1 Tf
+3.83794 0 Td
+(type of data. What follows will be chunks as defined by the MIDI type of\ IFF file.)Tj
+-4.05222 -2.77142 Td
+(But the programmer omitted the FORM group ID, and simply put the MThd ch\unk first. So, a MIDI file )Tj
+T*
+(starts as so: )Tj
+/T1_1 1 Tf
+0.21429 -2.77142 Td
+(MThd)Tj
+/T1_0 1 Tf
+10.72037 0 Td
+(Chunk ID.)Tj
+/T1_1 1 Tf
+-10.72037 -1.4857 Td
+(6)Tj
+/T1_0 1 Tf
+10.72037 0 Td
+(size of MThd chunk.)Tj
+ET
+EMC 
+/Artifact <</Type /Pagination /BBox [18 5 582 14 ]/Attached [/Bottom ]>>BDC 
+Q
+0 0 0 rg
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.borg.com/~jglatt/tech/aboutiff.htm \(7 of 8\)14.10.2003 14:41\:45)Tj
+ET
+EMC 
+
+endstreamendobj45 0 obj 2032endobj46 0 obj<</Length 45 0 R>>stream
+/Artifact <</Type /Pagination /BBox [18 778 582 787 ]/Attached [/Top ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(About Interchange File Format)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_0 1 Tf
+14 0 0 14 10 737.37555 Tm
+(Another deviation from the standard occurs with padding out odd-sized ch\unks with an extra byte. Some )Tj
+0 -1.2 TD
+(programmers didn't bother doing this when devising new IFF type files, a\nd occasionally, one will come )Tj
+T*
+(across some specification for a new IFF type that allows odd-sized chunk\s. )Tj
+0 -2.55714 TD
+(Unfortunately, these programmers released their work based upon these ab\errations before getting that )Tj
+0 -1.2 TD
+(work reviewed by other programmers who might have offered good reasons w\hy the aberrations should )Tj
+T*
+(be corrected. It makes it that much harder for software to read and writ\e files if it has to deal with )Tj
+T*
+(aberrations of the IFF standard. There's no reason for that, particularl\y when a strict adherence to the )Tj
+T*
+(standard sacrifices almost nothing in the way of quality and efficiency \over an aberration. But try to tell )Tj
+T*
+(that to a paranoid programmer who thinks that if he shows anyone what he\'s doing before his product is )Tj
+T*
+(shrink-wrapped, someone will steal his soul... well, IFF does give the c\omputer industry a means for )Tj
+T*
+(resolving needless hassles with data file formats, and it has worked ver\y successfully in a number of )Tj
+T*
+(instances, although occasionally people don't always use the standard wi\sely, or don't quite grasp EA's )Tj
+T*
+(altruistic notion that there is no good reason why a file format should \ever be proprietary or unpublished. )Tj
+T*
+(\(I urge consumers to avoid products where that is the case\).)Tj
+ET
+EMC 
+/Artifact <</Type /Pagination /BBox [18 5 582 14 ]/Attached [/Bottom ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.borg.com/~jglatt/tech/aboutiff.htm \(8 of 8\)14.10.2003 14:41\:45)Tj
+ET
+EMC 
+
+endstreamendobj47 0 obj(About Interchange File Format)endobj48 0 obj<</C 52 0 R/V 1.25>>endobj49 0 obj<</S 50 0 R/URL(http://www.borg.com/~jglatt/tech/aboutiff.htm)>>endobj50 0 obj<</G 51 0 R>>endobj51 0 obj<</PS[792.0 612.0]/M[10.080002 10.080002 26.0 36.0]/S 0/AS 1/PO 0/AT 70/AH 0/AL 0/CB 0/SU 1>>endobj52 0 obj[49 0 R]endobj53 0 obj(http://www.borg.com/~jglatt/tech/aboutiff.htm)endobj54 0 obj(jþG¦¯eìjïº­œ~åú)endobj55 0 obj<</ID 54 0 R/O[11 0 R 14 0 R 16 0 R 18 0 R 20 0 R 22 0 R 24 0 R 26 0 R]/S/SPS/T 47 0 R/CT(text/html)/SI 56 0 R/TID 57 0 R/TS(D:20031014104145)>>endobj56 0 obj<</AU 53 0 R/TS(D:20031014104145)>>endobj57 0 obj(¨f™gï‰®zkÿ¨‘lp)endobj58 0 obj<</IDS 59 0 R/URLS 60 0 R>>endobj59 0 obj<</Names[54 0 R 55 0 R]>>endobj60 0 obj<</Names[53 0 R 55 0 R]>>endobj61 0 obj<</Count 1/Parent 6 0 R/First 62 0 R/Last 62 0 R/Title(borg.com)>>endobj62 0 obj<</Parent 61 0 R/Dest[11 0 R/XYZ 0 792 null]/Title(About Interchange File Format)/SE 10 0 R>>endobj63 0 obj<</Length 3251/Type/Metadata/Subtype/XML>>stream
+<?xpacket begin='ï»¿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<?adobe-xap-filters esc="CRLF"?>
+<x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='XMP toolkit 2.9.1-13, framework 1.6'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:iX='http://ns.adobe.com/iX/1.0/'>
+<rdf:Description rdf:about='uuid:f9fe147c-93ce-48b3-b3db-e81152cc8264' xmlns:pdf='http://ns.adobe.com/pdf/1.3/' pdf:Producer='Acrobat Web Capture 6.0'></rdf:Description>
+<rdf:Description rdf:about='uuid:f9fe147c-93ce-48b3-b3db-e81152cc8264' xmlns:xap='http://ns.adobe.com/xap/1.0/' xap:ModifyDate='2003-10-14T12:41:45+02:00' xap:CreateDate='2003-10-14T12:41:43Z' xap:MetadataDate='2003-10-14T12:41:45+02:00'></rdf:Description>
+<rdf:Description rdf:about='uuid:f9fe147c-93ce-48b3-b3db-e81152cc8264' xmlns:xapMM='http://ns.adobe.com/xap/1.0/mm/' xapMM:DocumentID='uuid:3c8c3e42-72c9-4258-b041-6f0bde22a59e'/>
+<rdf:Description rdf:about='uuid:f9fe147c-93ce-48b3-b3db-e81152cc8264' xmlns:dc='http://purl.org/dc/elements/1.1/' dc:format='application/pdf'><dc:title><rdf:Alt><rdf:li xml:lang='x-default'>About Interchange File Format</rdf:li></rdf:Alt></dc:title></rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end='w'?>
+endstreamendobjxref
+0 64
+0000000004 65535 f
+0000000016 00000 n
+0000000143 00000 n
+0000000243 00000 n
+0000000000 00001 f
+0000000398 00000 n
+0000000418 00000 n
+0000000484 00000 n
+0000000584 00000 n
+0000000628 00000 n
+0000000675 00000 n
+0000000948 00000 n
+0000001141 00000 n
+0000001239 00000 n
+0000001263 00000 n
+0000001444 00000 n
+0000001468 00000 n
+0000001661 00000 n
+0000001685 00000 n
+0000001866 00000 n
+0000001890 00000 n
+0000002071 00000 n
+0000002095 00000 n
+0000002276 00000 n
+0000002300 00000 n
+0000002481 00000 n
+0000002505 00000 n
+0000002674 00000 n
+0000002698 00000 n
+0000002788 00000 n
+0000002877 00000 n
+0000002968 00000 n
+0000002989 00000 n
+0000007166 00000 n
+0000007187 00000 n
+0000012372 00000 n
+0000012393 00000 n
+0000016579 00000 n
+0000016600 00000 n
+0000021755 00000 n
+0000021776 00000 n
+0000026923 00000 n
+0000026944 00000 n
+0000031498 00000 n
+0000031519 00000 n
+0000036517 00000 n
+0000036538 00000 n
+0000038623 00000 n
+0000038670 00000 n
+0000038706 00000 n
+0000038786 00000 n
+0000038815 00000 n
+0000038924 00000 n
+0000038948 00000 n
+0000039011 00000 n
+0000039045 00000 n
+0000039205 00000 n
+0000039256 00000 n
+0000039290 00000 n
+0000039333 00000 n
+0000039374 00000 n
+0000039415 00000 n
+0000039497 00000 n
+0000039606 00000 n
+trailer
+<</Size 64/Root 1 0 R/Info 3 0 R/ID[<810253f1cf659946861226336ed49650><e28af31a325ab746b538991201af3fd5>]>>
+startxref
+42934
+%%EOF

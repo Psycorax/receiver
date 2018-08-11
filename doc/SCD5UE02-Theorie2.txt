@@ -1,0 +1,59 @@
+1.)	a.) done
+
+	b.) 1.) Der Zeitbezug der Signale des Codec wird unter Umständen verschoben, wenn mehrere Signale einsynchronisiert werden, 
+			weil wenn z.B. ein metastabiler Zustand eines FFs erreicht wird und die Flanke high oder low ausfallen kann, 
+			dadurch wird unter Umständen der Wert um einen Takt verzögert angelegt.
+		2.) Die Verschiebung beträgt theoretisch n Registerstufen, dies tritt jedoch nur auf, wenn von Register zu Register, 
+			jeweils ein Metastabiler zustand übergeben wird, praktisch wird meistens eine Verschiebung von einem Register vorliegen.
+		
+	c.) 1.) Es ist möglich iADCdat und oDACdat einfach miteinander zu verbinden, weil der linke und rechte channel von ADC und DAC, 
+			jeweils zur selben Zeit ausgegeben bzw. eingelesen werden.
+		2.) Der Zeitbezug zwischen ADC1rc und DAC1rc ist wichtig weil, damit eine verlustfreie Datenübertragung ermöglicht wird.
+		3.) Werden für ADC und DAC unterschiedliche Abtastraten verwendet, so ist zu erwarten, dass Daten verloren gehen, 
+			bzw. keine korrekten Daten(Nullen) verarbeitet werden.
+	
+	d,e,f,g,h.) done
+
+2.)	a.) done
+
+	b.) 1.) Es fällt auf, dass die LED gedimmt erscheint, also sind die beiden Signale Mclk und Bclk nicht synchron,
+			weisen teilweise jedoch den selben Zustand auf.
+		2.) Dies ist zu erwarten, weil Mclk vom FPGA erzeugt wird und Bclk durch den Mastermode vom Codec erzeugt wird.
+	
+	c.) done
+	
+	d.) Die LED bleibt ausgeschalten, dies war zu erwarten, weil die beiden Signale bei gleicher Abtastrate von ADC und DAC
+		synchorn zu einander sind.
+	
+	e.) done
+	
+	f.) 1.) Für die Einstellung cAdc8000Dac48000 wird erwartet, dass zu viele Daten vom DAC eingelesen werden,
+			als vom ADC zur Verfügung gestellt werden, darum werden Nullen eingelesen.
+			Es fällt auf, dass die Tonausgabe nur auf einem Channel erfolgt, weil der andere Channel nur Nullen bekommt.
+			Der Ton ist schwer verständlich und hat einen hohe Tonhöhe.
+		2.) Für die Einstellung cAdc48000Dac8000 wird erwartet, dass zu viele Daten vom ADC zur Verfügung gestellt werden,
+			als der DAC verarbeiten kann, dadurch gehen daten verloren.
+			Die Tonausgabe erscheint in einem tiefen Ton, die Sprache ist deutlich und erkennbar, es funktionieren beide Channel.
+	
+	g.) Bei unterschiedlichen Abtastraten, passt sich die Bclk an die schneller Abtastrate an,
+		es ist auch an der LED kein Unterschied zu erkennen.
+	
+	h.) Es wird erwartet, dass iADC1rc und iDAC1rc unterschiedlich sind und dies ist auch an der LED erkennbar.
+	
+3.)	a.)	Nein die Parameter können nicht ausgelesen werden, da der WM8731 ein Write-Only Gerät ist (Datasheet Seite 46 ganz unten).
+
+	b.)	
+	
+	c.)	Datasheet p. 15: Min. Master clock cycle time: 54ns -> MCLKmax = 1/54ns = 18,518... MHz
+	
+	d.)	Der Hochpassfilter dient zum Entfernen von Gleichspannung im Audiosignal. Überprüfen kann man das indem man Gleichspannung am ADC anlegt und
+		sich die Ausgabe wiederum am PC anzeigen lässt. Dazu kann die externe USB Soundkarte in Verbindung mit der audioTester Software verwendet werden.
+	
+	e.)	Das Superpositionsprinzip sagt aus, dass zwei physikalische Größen überlagert werden können, ohne sich zu stören.
+		Das ist hier der Fall, wobei das Mikrofon von der Gleichspannung mit der Frequenz 0 gespeist wird und die Tonaufnahme im Bereich von 20 - 20k Hz
+		übertragen wird.
+	
+	f.)	Dem Mikrofoneingang ist ein 330 Ohm Widerstand vorgeschalten. Damit berechnet sich aus der Formel (G1 = 50k / (Rmicin + 10k)) G1 = 50000/10330 = 13,7 dB
+	
+	g.)	fs = MCLK / 272 = 12 MHz / 272 = 44117,65 Hz
+	
